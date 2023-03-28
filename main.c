@@ -1,6 +1,6 @@
 /**
  * Создать пример корректно оформленного проекта
- * @author ddsh
+ * @author Lari Shirokova
  * @link https://1586.su/mod/page/view.php?id=15
  * @link https://github.com/lariliel/10-IT-Skeleton
  */
